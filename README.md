@@ -5,8 +5,7 @@
 - Use the `useState` hook to create state within a component
 - Update state based on events
 
-## Introduction
-
+  
 In this code-along, we'll get some hands-on practice writing components with
 state and setting state based on different kinds of events.
 
